@@ -1,0 +1,1 @@
+<b style="color: greenyellow"><?php lang::_e($this->payText)?></b>

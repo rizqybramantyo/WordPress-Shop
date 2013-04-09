@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : moneybookers/mod.xml
+    Description:
+        Description of all configuration options for Moneybookers Module
+-->
+
+<config>
+    <params>
+        <param name="email" type="text" label="Email" />
+        <param name="testMode" type="checkbox" label="Test Mode" />
+    </params>
+</config>
